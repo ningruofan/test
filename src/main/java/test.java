@@ -1,8 +1,7 @@
 public class test {
-    //bj代码逻辑
-    //之前被误改成了其他
+    //SH代码逻辑
     {
-      String s ="bj";
 
+   String s ="SH";
     }
 }
